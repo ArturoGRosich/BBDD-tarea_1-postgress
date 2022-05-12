@@ -1,4 +1,5 @@
 # BBDD tarea 1 postgress
+Done with [@ramonsancheez](https://github.com/ramonsancheez)
 
 ![image](https://user-images.githubusercontent.com/92529346/167946779-4869f2df-9027-43ed-832d-c3a01383e5ba.png)
 
